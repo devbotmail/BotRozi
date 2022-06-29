@@ -5,13 +5,13 @@
 // RECODE BY ZIFABOTZ
 
 //=============『 Utama 』================== //
-global.owner = ['6285828377610'] 
-global.mods = ['6285828764046'] 
-global.prems = ['6285828377610'] 
+global.owner = ['6289688069444'] 
+global.mods = ['6289688069444'] 
+global.prems = ['6289688069444'] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '6285828377610'
+global.numberowner = '62895411075941'
 global.instagram = 'https://instagram.com/zalfapontianak'
 global.github = 'https://github.com/Botynyakamu'
 global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/'
@@ -19,17 +19,17 @@ global.sc = 'https://youtu.be/lMcwJMp_0rM'
 global.ss = 'https://youtu.be/3m7tRD4RklM'
 global.sss = 'https://youtu.be/PzUH1ApMCig'
 global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '085828764046'
+global.dana = '089688069444'
 global.pulsa = '085828764046'
 global.gopay = '085828764046'
 
 //=============『 Info Bot 』=================//
 global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
+global.gc = 'https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd'
 global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.webm = 'https://instagram.com/zalfapontianak'
-global.saweria = 'https://saweria.co/zifabotz123'
-global.nomer = 'https://wa.me/6285787476829' //ganti jadi nomor mu
+global.saweria = 'https://saweria.co/bangdevs'
+global.nomer = 'https://wa.me/62895411075941?text=.daftar+subjectundefined.25' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
