@@ -10,26 +10,26 @@ global.mods = ['6289688069444','6285795035419','6283183321692','62895411075941',
 global.prems = ['6289688069444','6285795035419','6283183321692','62895411075941','6285828764046'] 
 
 //=============『 Info Owner 』============== //
-global.nameowner = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
-global.numberowner = '62895411075941'
-global.instagram = 'https://instagram.com/zalfapontianak'
-global.github = 'https://github.com/Botynyakamu'
-global.tt = 'https://vt.tiktok.com/ZSdc6Dht6/'
-global.sc = 'https://youtu.be/lMcwJMp_0rM'
-global.ss = 'https://youtu.be/3m7tRD4RklM'
-global.sss = 'https://youtu.be/PzUH1ApMCig'
-global.yt = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
-global.dana = '089688069444'
-global.pulsa = '085828764046'
-global.gopay = '085828764046'
+global.nameowner = 'ᴹᴿ᭄ঔৣBOT-MD꧂'
+global.numberowner = '6283183321692'
+global.instagram = '-'
+global.github = '🗿🔥🗿'
+global.tt = '-'
+global.sc = 'CARI SENDIRI BANG'
+global.ss = '-'
+global.sss = '-'
+global.yt = '-'
+global.dana = '083183321692'
+global.pulsa = '083183321692'
+global.gopay = '083183321692'
 
 //=============『 Info Bot 』=================//
-global.namebot = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.gc = 'https://chat.whatsapp.com/E7R8oYD1AiKFVTk83Qc0sd'
-global.web = 'https://instagram.com/zalfapontianak' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.webm = 'https://instagram.com/zalfapontianak'
-global.saweria = 'https://saweria.co/bangdevs'
-global.nomer = 'https://wa.me/62895411075941?text=.daftar+subjectundefined.25' //ganti jadi nomor mu
+global.namebot = '❋ཻུ۪۪⸙BOT-MD⳹ ❋ཻུ۪۪'
+global.gc = 'minta ke owner gc botnya'
+global.web = 'http://wa.me/6283183321692' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.webm = '-'
+global.saweria = '083183321692 (Axis)'
+global.nomer = 'https://wa.me/6283183321692?text=.daftar+subjectundefined.25' //ganti jadi nomor mu
 global.price1 = '𝐍𝐈𝐇 𝐁𝐀𝐍𝐆 𝐋𝐈𝐒𝐓 𝐒𝐄𝐖𝐀𝐍𝐘𝐀\n\n》PERMANEN Rp 10.000\nMAKSIMAL 2 GRUP\n》PERMANEN  Rp 20.000\nMAKSIMAL 6 GRUP \n》1 BULAN Rp 5.000\nMAKSIMAL 1 GRUP'
 
 //=======『 Tampilan Dan Lainnya 』============//
@@ -44,10 +44,10 @@ global.fotonya8 = 'https://telegra.ph/file/14ec0e0c93af4812d1fd7.jpg' //foto ses
 global.donasi = 'https://telegra.ph/file/3c4d1c12719a0dac73eeb.jpg' //ganti pakai poto payment atau apa
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '❋ཻུ۪۪⸙BOT-MD⳹ ❋ཻུ۪۪'
 global.watermark = wm
-global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜ𝙕𝙞𝙛𝙖𝙗𝙤𝙩𝙯_𝙊𝙛𝙛cོ1꧅'
-global.wm3 = 'ᯤ rozi 𝙾𝙵𝙲'
+global.wm2 = 'ᯤ creator by Oᵂηʀ᭄๖ۣۣۜO w n e r_𝙊𝙛𝙛cོ꧅'
+global.wm3 = 'ᯤ B O T 𝙾𝙵𝙲'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -57,8 +57,8 @@ global.eror = '_*🚨 Server Bot Sedang Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
-global.packname = 'Zifabotz'
-global.author = '@rozi'
+global.packname = 'BOT-MD'
+global.author = '@BOT'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
